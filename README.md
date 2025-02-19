@@ -85,4 +85,4 @@ Happy coding!
 
 ---
 
-*© 2023 Chris. All rights reserved.*
+*© 2025 Chris. All rights reserved.*
